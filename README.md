@@ -81,7 +81,7 @@ JavaScript   55 mins         ██▓░░░░░░░░░░░░░░
 | <a href="https://github.com/WerisCoder/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WerisCoder&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="WerisCoder's GitHub Stats" /></a> | <a href="https://github.com/WerisCoder/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WerisCoder&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-Feel free to reach out to me on LinkedIn for anything!
+Feel free to reach out to me for anything!
 <p align="left">
 <a href="https://www.linkedin.com/in/bhargav-p-patel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhargav-p-patel" height="60" width="70" /></a>
 <a href="https://www.gmail.com/mariamkhayr22/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="bhargav.p.patel" height="60" width="70" /></a>
