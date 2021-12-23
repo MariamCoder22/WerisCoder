@@ -14,7 +14,7 @@
 Hi, I'm [Mariam Khayr](https://abhishknads.me/), a passionate self-taught full stack web developer and a software engineer from the United States. Two years of experience facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills. I have the ability to leverage full-stack expertise to build interactive and user-centered website designs to scale. I possess extensive expertise in large system architecture development and administration, as well as network design and configuration.
 
 i am also an open-source enthusiast and maintainer. 
-<img align='right' src="https://media.giphy.com/media/26FPKhUtNG3TW74f6/giphy.gif" width="280" />
+<img align='right' src="https://media.giphy.com/media/26FPKhUtNG3TW74f6/giphy.gif" width="380" />
   
 - 💼 any freelance work? feel free to reach out, [email](mailto:mariamkhayr22@gmail.com) :)
 - 💬 ask me about anything, i am happy to help!
