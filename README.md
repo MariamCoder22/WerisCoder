@@ -80,6 +80,9 @@ JavaScript   5 mins         ██▓░░░░░░░░░░░░░░�
 
 | <a href="https://github.com/WerisCoder/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WerisCoder&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="WerisCoder's GitHub Stats" /></a> | <a href="https://github.com/WerisCoder/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WerisCoder&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=WerisCoder&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 Feel free to reach out to me for anything!
 <p align="left">
