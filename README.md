@@ -60,9 +60,9 @@ i am also an open-source enthusiast and maintainer.
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSX          4 hrs 48 mins   █████████████▒░░░░░░░░░░░   53.44 % 
+JSX          1 hrs 48 mins   █████████████▒░░░░░░░░░░░   53.44 % 
 TypeScript   3 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.19 % 
-JavaScript   55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+JavaScript   5 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -70,7 +70,7 @@ JavaScript   55 mins         ██▓░░░░░░░░░░░░░░
 🚧 **my ToDoList stats:**
 <!-- TODO-IST:START -->
 🏆  7,982 Karma Points           
-🌸  Completed 2 tasks today           
+🌸  Completed 20 tasks today           
 ✅  Completed 3 tasks so far           
 ⏳  Longest streak is 4 days
 <!-- TODO-IST:END -->
