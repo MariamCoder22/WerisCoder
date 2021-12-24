@@ -7,7 +7,10 @@
   <img align="left" alt="Mariam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=WerisCoder.WerisCoder)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/WerisCoder/count.svg" />
+</p>
 
 <br />
 
@@ -74,6 +77,9 @@ JavaScript   5 mins         ██▓░░░░░░░░░░░░░░�
 ✅  Completed 3 tasks so far           
 ⏳  Longest streak is 4 days
 <!-- TODO-IST:END -->
+
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 
 📈 my github stats
