@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/mariam-khayr/">
   <img align="left" alt="Mariam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/user/mariamkhayr22?si=Bg6sd71RS4iKtJCAZfiuw&utm_source=native-share-menu">
   <img align="left" alt="Mariam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm [Mariam Khayr](https://abhishknads.me/), a passionate self-taught full stack web developer and a software engineer from the United States. Two years of experience facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills. I have the ability to leverage full-stack expertise to build interactive and user-centered website designs to scale. I possess extensive expertise in large system architecture development and administration, as well as network design and configuration.
+Hi, I'm [Mariam Khayr](https://abhishknads.me/), a passionate full stack web developer and a software engineer from the United States. Two years of experience facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills. I have the ability to leverage full-stack expertise to build interactive and user-centered website designs to scale. I possess extensive expertise in large system architecture development and administration, as well as network design and configuration.
 
 i am also an open-source enthusiast and maintainer. 
 <img align='right' src="https://media.giphy.com/media/26FPKhUtNG3TW74f6/giphy.gif" width="380" />
