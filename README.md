@@ -3,8 +3,7 @@
 <a href="https://www.linkedin.com/in/mariam-khayr/">
   <img align="left" alt="Mariam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/mariamkhayr22?si=Bg6sd71RS4iKtJCAZfiuw&utm_source=native-share-menu">
-  <img align="left" alt="Mariam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<p align="center"><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px"></p>
 </a>
 
 <p align="center"> 
