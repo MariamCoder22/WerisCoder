@@ -1,8 +1,5 @@
 ### <h2>Hi, I'm Mariam Khayr! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<a href="https://www.linkedin.com/in/mariam-khayr/">
-  <img align="left" alt="Mariam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <p align="center"><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px"></p>
 </a>
 
